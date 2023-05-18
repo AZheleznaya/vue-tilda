@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_tilda"]=self["webpackChunkvue_tilda"]||[]).push([[534],{1534:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(6252);function a(e,n,r,a,t,i){return(0,u.wg)(),(0,u.iD)("h1",null,"Profile Page")}var t={name:"ProfilePage"},i=r(3744);const l=(0,i.Z)(t,[["render",a]]);var f=l}}]);
+//# sourceMappingURL=534.3f281065.js.map
